@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Serezhka Mironov",
+    "phone":"178-64-14",
+    "company":"Miron Inc",
+    "photo":"1.jpg"
+  },
+  {
+    "name":"Yulian Koval",
+    "phone":"150-65-15",
+    "company":"Miron Inc",
+    "photo":"ulian.jpg"
+  },
+  {
+    "name":"Alena Serduk",
+    "phone":"321-22-76",
+    "company":"Miron Inc",
+    "photo":"alena.jpg"
+  },
+  {
+    "name":"Ilya Oleynik",
+    "phone":"242-23-54",
+    "company":"Miron Inc",
+    "photo":"ilya.jpg"
+  },
+  {
+    "name":"Snezhana Shirskaya",
+    "phone":"342-11-54",
+    "company":"Avon",
+    "photo":"snezhana.jpg"
+  },
+]
